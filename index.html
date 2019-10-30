@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- DataTables CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css">
+
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="./css/all.min.css">
+
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.5.6/plyr.css" />
+
+  <style>
+    .play-btn:hover {
+      cursor: pointer;
+      color: #212529 !important;
+    }
+  </style>
+
+  <title>Hello, world!</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row py-5">
+      <div class="col-lg-12">
+        <h2 class="text-center">Radio stanice</h2>
+        <div class="col-md-4 py-5 mx-auto bg-dark">
+          <audio id="player" controls>
+            <source id="playerSrc" src="http://live.antenazagreb.hr:8000/;" />
+          </audio>
+        </div>
+
+
+        <table class="table table-hover" id="radio-tablica">
+          <thead>
+            <tr>
+              <th>Radio Stanica</th>
+              <th>Web</th>
+              <th>Stream</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+  <script src="https://cdn.plyr.io/3.5.6/plyr.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+
+      const player = new Plyr('#player', {
+        controls: [
+          'play', // Play/pause playback
+          'progress', // The progress bar and scrubber for playback and buffering
+          'mute', // Toggle mute
+          'volume', // Volume control
+          'captions', // Toggle captions
+        ]
+      });
+      player.volume = 0.1;
+
+      $('#radio-tablica').DataTable({
+        "pageLength": 25,
+        ajax: {
+          url: './stanice.json',
+          dataSrc: 'stanice'
+        },
+        columns: [
+          { data: "naziv" },
+          {
+            data: "url",
+            render: function (data, type, row) {
+              return '<a href="' + data + '" class="text-dark" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt fa-lg" title="' + data + '"></i></a>';
+            }
+          },
+          {
+            data: "stream",
+            render: function (data, type, row) {
+              // return '<a href="" class="text-dark"><i class="far fa-play-circle fa-lg" title="' + data + '"></i></a>';
+              return '<span class="text-dark play-btn" data-stream="' + data + '" title="Play"><i class="far fa-play-circle fa-lg"></i></span>';
+            }
+          }
+        ]
+      });
+
+      let audioPlayer = document.querySelector('#player');
+      let audioPlayerSrc = document.querySelector('#playerSrc');
+
+      $('#radio-tablica tbody').on('click', '.play-btn', function () {
+        audioPlayer.pause();
+        let streamLink = $(this).attr('data-stream');
+        audioPlayerSrc.setAttribute('src', streamLink);  
+        audioPlayer.load();   
+        audioPlayer.play();   
+        console.log(audioPlayerSrc.getAttribute('src'));
+      });
+
+    })
+
+  </script>
+</body>
+
+</html>
