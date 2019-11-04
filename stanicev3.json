@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "naziv": "Antena Zagreb Radio",
+    "url": "http://www.antenazagreb.hr",
+    "stream": "http://live.antenazagreb.hr:8000/;",
+    "frekvencija": "89.7",
+    "slika": "radio-antena-hit.jpg",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "2",
+    "naziv": "Otvoreni Radio",
+    "url": "http://www.otvoreni.hr",
+    "stream": "http://192.240.102.133:12055/stream.aac",
+    "frekvencija": "105.6",
+    "slika": "otvoreni-radio-uzivo.jpg",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "3",
+    "naziv": "Radio 101",
+    "url": "http://www.radio101.hr/",
+    "stream": "http://live.radio101.hr:9531/stream",
+    "frekvencija": "101",
+    "slika": "radio-101-zagreb.jpg",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "4",
+    "naziv": "Radio Hrčak Čakovec",
+    "url": "http://www.radio-cakovec.hr/index.php",
+    "stream": "http://144.76.39.214:7000/;",
+    "frekvencija": "98.0",
+    "slika": "radio-hrcak-cakovec.jpg",
+    "lokacija": "Hrvatska"
+  },  
+  {
+    "id": "5",
+    "naziv": "Radio 1",
+    "url": "http://www.radio1.hr",
+    "stream": "http://d28int.novi-net.net:8042/radio1H",
+    "frekvencija": "105.6",
+    "slika": "radio-1-cakovec.jpg",
+    "lokacija": "Hrvatska"
+  }
+
+]
