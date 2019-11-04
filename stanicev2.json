@@ -1,0 +1,812 @@
+[
+  {
+    "id": "3",
+    "naziv": "Antena Zagreb Radio",
+    "url": "http://www.antenazagreb.hr",
+    "stream": "http://live.antenazagreb.hr:8000/;",
+    "frekvencija": "89.7",
+    "slika": "radio-antena-hit.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "17",
+    "naziv": "Otvoreni Radio",
+    "url": "http://www.otvoreni.hr",
+    "stream": "http://192.240.102.133:12055/stream.aac",
+    "frekvencija": "105.6",
+    "slika": "otvoreni-radio-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "18",
+    "naziv": "Radio 101",
+    "url": "http://www.radio101.hr/",
+    "stream": "http://live.radio101.hr:9531/stream",
+    "frekvencija": "101",
+    "slika": "radio-101-zagreb.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "21",
+    "naziv": "Radio 808",
+    "url": "http://www.radio808.com",
+    "stream": "http://test.radio808.info:8003/;",
+    "frekvencija": "",
+    "slika": "radio-808.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "32",
+    "naziv": "Hrvatski Katolički Radio",
+    "url": "http://www.hkr.hr",
+    "stream": "http://stream.hkr.hr:8000/hkr.aac",
+    "frekvencija": "",
+    "slika": "hrvatski-katolicni-radio.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "33",
+    "naziv": "HRT Hrvatski Radio HR 1",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19393.live.streamtheworld.com:80/PROGRAM1_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-prvi-program-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "34",
+    "naziv": "HRT Hrvatski Radio HR 2",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19393.live.streamtheworld.com:80/PROGRAM2_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-drugi-program-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "35",
+    "naziv": "HRT Hrvatski Radio HR 3",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19393.live.streamtheworld.com/PROGRAM3.mp3",
+    "frekvencija": "",
+    "slika": "hrt-radio-treci-program-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "36",
+    "naziv": "HRT Hrvatski Radio Sljeme",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19373.live.streamtheworld.com:80/SLJEME_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-sljeme-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "37",
+    "naziv": "HRT Hrvatski Radio Glas Hrvatske",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://20043.live.streamtheworld.com:80/VOICEOFCROATIA_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-glas-hrvatske-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "56",
+    "naziv": "Radio Laganini",
+    "url": "http://laganini.fm/",
+    "stream": "http://194.145.208.251:8000/start/lfmzg",
+    "frekvencija": "",
+    "slika": "laganini-radio-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "57",
+    "naziv": "Narodni Radio",
+    "url": "http://www.prvi.hr/narodni",
+    "stream": "http://live.narodni.hr:8063/;",
+    "frekvencija": "",
+    "slika": "narodni-radio-uzivo-2018.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "63",
+    "naziv": "Soundset Plavi Radio",
+    "url": "http://soundset.hr/",
+    "stream": "http://194.145.208.251:8000/start/lfmzg",
+    "frekvencija": "",
+    "slika": "soundset-radio-uzivo-2017.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "64",
+    "naziv": "Radio Yammat",
+    "url": "http://www.yammat.com/",
+    "stream": "http://192.240.102.133:12430/stream",
+    "frekvencija": "",
+    "slika": "yammat-fm-radio-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "81",
+    "naziv": "Radio Student",
+    "url": "http://www.radiostudent.hr/",
+    "stream": "http://161.53.122.184:8000/AAC128.aac",
+    "frekvencija": "",
+    "slika": "radio-student-zagreb-uzivo.jpg",
+    "zupanija": "Grad Zagreb",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "4",
+    "naziv": "Radio 105",
+    "url": "http://www.radio105.hr",
+    "stream": "http://194.56.74.4:8050/;",
+    "frekvencija": "104.0",
+    "slika": "radio-105-selnica-uzivo.jpg",
+    "zupanija": "Međimurska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "19",
+    "naziv": "Radio Hrčak Čakovec",
+    "url": "http://www.radio-cakovec.hr/index.php",
+    "stream": "http://144.76.39.214:7000/;",
+    "frekvencija": "98.0",
+    "slika": "radio-hrcak-cakovec.jpg",
+    "zupanija": "Međimurska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "20",
+    "naziv": "Radio 1",
+    "url": "http://www.radio1.hr",
+    "stream": "http://d28int.novi-net.net:8042/radio1H",
+    "frekvencija": "105.6",
+    "slika": "radio-1-cakovec.jpg",
+    "zupanija": "Međimurska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "42",
+    "naziv": "HRT Hrvatski Radio Dubrovnik",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19373.live.streamtheworld.com:80/DUBROVNIK_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-dubrovnik-uzivo.jpg",
+    "zupanija": "Dubrovačko-neretvanska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "55",
+    "naziv": "Radio Korčula",
+    "url": "http://www.radio-korcula.hr/",
+    "stream": "http://radio.radio-korcula.hr:7845/;",
+    "frekvencija": "",
+    "slika": "radio-korcula-uzivo.jpg",
+    "zupanija": "Dubrovačko-neretvanska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "8",
+    "naziv": "Radio Istra",
+    "url": "http://www.radioistra.hr",
+    "stream": "http://s8.iqstreaming.com:8032/stream",
+    "frekvencija": "Internet Radio",
+    "slika": "radio-istra-uzivo.jpg",
+    "zupanija": "Istarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "15",
+    "naziv": "Radio Labin",
+    "url": "http://www.radiolabin.hr",
+    "stream": "http://radiolabin.streamradio.com.hr:9102/;",
+    "frekvencija": "91.0",
+    "slika": "radio-labin-uzivo.jpg",
+    "zupanija": "Istarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "39",
+    "naziv": "HRT Hrvatski Radio Pula",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19393.live.streamtheworld.com:80/PULA_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-pula-uzivo.jpg",
+    "zupanija": "Istarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "77",
+    "naziv": "Radio Rovinj Fm",
+    "url": "http://www.rovinj.fm/",
+    "stream": "http://rovinj.fm:8000/;",
+    "frekvencija": "",
+    "slika": "radio-rovinj-fm-uzivo.jpg",
+    "zupanija": "Istarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "6",
+    "naziv": "Radio Dalmacija d.o.o.",
+    "url": "http://www.radiodalmacija.hr",
+    "stream": "http://shoutcast.pondi.hr:8000/;",
+    "frekvencija": "87.8",
+    "slika": "radio-dalmacija-uzivo.jpg",
+    "zupanija": "Splitsko-dalmatinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "23",
+    "naziv": "Radio Makarska Rivijera",
+    "url": "http://www.radiomakarska.com",
+    "stream": "http://85.25.135.86:8018/;",
+    "frekvencija": "97.6",
+    "slika": "radio-makarska.jpg",
+    "zupanija": "Splitsko-dalmatinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "41",
+    "naziv": "HRT Hrvatski Radio Split",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19373.live.streamtheworld.com:80/SPLIT_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-split-uzivo.jpg",
+    "zupanija": "Splitsko-dalmatinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "45",
+    "naziv": "Gradski Radio Trogir",
+    "url": "http://www.gradskiradiotrogir.hr/",
+    "stream": "http://85.25.135.86:8016/stream",
+    "frekvencija": "",
+    "slika": "gradski-radio-trogir-uzivo.jpg",
+    "zupanija": "Splitsko-dalmatinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "7",
+    "naziv": "Radio Županja",
+    "url": "http://www.radiozupanja.hr",
+    "stream": "http://144.76.172.23:7039/stream",
+    "frekvencija": "97.5",
+    "slika": "",
+    "zupanija": "Vukovarsko-srijemska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "9",
+    "naziv": "Radio Dunav",
+    "url": "http://www.radio-dunav.hr",
+    "stream": "http://cp1.shoutcheap.com:8111/;",
+    "frekvencija": "101.5",
+    "slika": "radio-dunav-uzivo.jpg",
+    "zupanija": "Vukovarsko-srijemska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "25",
+    "naziv": "Radio Ilok",
+    "url": "http://www.radio-ilok.hr",
+    "stream": "http://37.59.32.115:5172/stream",
+    "frekvencija": "",
+    "slika": "radio-ilok-ilok.jpg",
+    "zupanija": "Vukovarsko-srijemska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "61",
+    "naziv": "Radio Vinkovci",
+    "url": "http://novosti.hr/",
+    "stream": "http://195.29.77.22:8000/RadioVinkovci.mp3",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Vukovarsko-srijemska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "24",
+    "naziv": "Radio Šibenik",
+    "url": "http://www.radiosibenik.hr",
+    "stream": "http://178.32.62.163:8215/;",
+    "frekvencija": "",
+    "slika": "radio-sibenik-uzivo.jpg",
+    "zupanija": "Šibensko-kninska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "44",
+    "naziv": "HRT Hrvatski Radio Knin",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://20043.live.streamtheworld.com:80/KNIN_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-knin-uzivo.jpg",
+    "zupanija": "Šibensko-kninska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "51",
+    "naziv": "Radio Drniš",
+    "url": "http://www.radiodrnis.hr/jm/",
+    "stream": "http://live.radiodrnis.hr:5004/;",
+    "frekvencija": "",
+    "slika": "radio-drnis-uzivo.jpg",
+    "zupanija": "Šibensko-kninska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "13",
+    "naziv": "Radio Našice",
+    "url": "http://www.radionasice.hr",
+    "stream": "http://s8.iqstreaming.com:8038/stream",
+    "frekvencija": "Internet Radio",
+    "slika": "radio-nasice-uzivo.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "22",
+    "naziv": "Radio Baranja",
+    "url": "http://www.radio-baranja.hr",
+    "stream": "http://s8.iqstreaming.com:8036/stream",
+    "frekvencija": "",
+    "slika": "radio-baranja.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "27",
+    "naziv": "Radio Donji Miholjac",
+    "url": "http://www.rdm.hr/",
+    "stream": "http://s8.iqstreaming.com:8078/stream",
+    "frekvencija": "",
+    "slika": "radio-donji-miholjac.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "40",
+    "naziv": "HRT Hrvatski Radio Osijek",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19373.live.streamtheworld.com:80/OSIJEK_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-osijek-uzivo.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "46",
+    "naziv": "Radio Belišće",
+    "url": "http://www.radio-belisce.net/",
+    "stream": "http://185.62.75.24:8002/;",
+    "frekvencija": "",
+    "slika": "gradski-radio-belisce-uzivo.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "49",
+    "naziv": "Radio Djakovo",
+    "url": "http://www.radio-djakovo.hr/",
+    "stream": "http://s8.iqstreaming.com:8082/;",
+    "frekvencija": "",
+    "slika": "radio-djakovo-uzivo.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "62",
+    "naziv": "Slavonski Radio",
+    "url": "http://www.slavonski-radio.com/",
+    "stream": "http://185.62.75.112:8021/SlavonskiRadio",
+    "frekvencija": "",
+    "slika": "slavonski-radio-uzivo.jpg",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "72",
+    "naziv": "Hrvatski Radio Valpovstina",
+    "url": "http://www.hrv89.hr/",
+    "stream": "http://144.76.172.23:7092/;",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Osječko-baranjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "43",
+    "naziv": "HRT Hrvatski Radio Zadar",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19393.live.streamtheworld.com:80/ZADAR_SC",
+    "frekvencija": "",
+    "slika": "hrt-radio-zadar-uzivo.jpg",
+    "zupanija": "Zadarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "48",
+    "naziv": "Radio Benkovac",
+    "url": "http://www.radiobenkovac.com/",
+    "stream": "http://107.155.154.100:8100/;",
+    "frekvencija": "",
+    "slika": "radio-benkovac-uzivo.jpg",
+    "zupanija": "Zadarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "60",
+    "naziv": "Radio Pag",
+    "url": "http://www.radiopag.hr/",
+    "stream": "http://136.243.144.93:9300/;",
+    "frekvencija": "",
+    "slika": "radio-pag-uzivo.jpg",
+    "zupanija": "Zadarska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "29",
+    "naziv": "Radio Nova Gradiška",
+    "url": "http://www.radiong.hr",
+    "stream": "http://comet.shoutca.st:8050/;",
+    "frekvencija": "",
+    "slika": "nova-gradiska.jpg",
+    "zupanija": "Brodsko-posavska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "68",
+    "naziv": "Radio Slavonski Brod",
+    "url": "http://soundset.hr/",
+    "stream": "http://50.7.129.122:8529/;",
+    "frekvencija": "",
+    "slika": "soundset-radio-uzivo-2017.jpg",
+    "zupanija": "Brodsko-posavska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "80",
+    "naziv": "Radio Soundset Požega",
+    "url": "http://soundset.hr/",
+    "stream": "http://50.7.70.58:8906/;",
+    "frekvencija": "",
+    "slika": "soundset-radio-uzivo-2017.jpg",
+    "zupanija": "Požeško-slavonska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "10",
+    "naziv": "Radio Virovitica",
+    "url": "http://www.icv.hr",
+    "stream": "http://85.17.172.242:8050/live2.mp3",
+    "frekvencija": "92.9",
+    "slika": "360-radio-virovitica-uzivo.jpg",
+    "zupanija": "Virovitičko-podravska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "30",
+    "naziv": "Radio Slatina",
+    "url": "http://www.radioslatina.hr",
+    "stream": "http://85.17.172.242:8020/live2.mp3",
+    "frekvencija": "",
+    "slika": "slatina-slatina.jpg",
+    "zupanija": "Virovitičko-podravska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "59",
+    "naziv": "Radio Orahovica",
+    "url": "http://www.radioorahovica.com/",
+    "stream": "http://185.62.75.112:8023/RadioOrahovica",
+    "frekvencija": "",
+    "slika": "radio-orahovica-uzivo.jpg",
+    "zupanija": "Virovitičko-podravska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "66",
+    "naziv": "Gradski Radio Virovitica",
+    "url": "https://www.facebook.com/Gradski-radio-Virovitica-214303218712238/",
+    "stream": "http://85.17.172.242:8040/live.mp3",
+    "frekvencija": "",
+    "slika": "gradski-radio-virovitica-uzivo.jpg",
+    "zupanija": "Virovitičko-podravska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "47",
+    "naziv": "Radio Gospić",
+    "url": "http://www.kic-gospic.eu/radio-gospic/",
+    "stream": "http://194.56.74.4:9300/;",
+    "frekvencija": "",
+    "slika": "radio-gospic-uzivo.jpg",
+    "zupanija": "Ličko-senjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "52",
+    "naziv": "Hrvatski Radio Otočac",
+    "url": "http://www.hrvatski-radio-otocac.hr/",
+    "stream": "http://s8.iqstreaming.com:8024/stream",
+    "frekvencija": "",
+    "slika": "hrvatski-radio-otocac-uziv.jpg",
+    "zupanija": "Ličko-senjska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "26",
+    "naziv": "Radio Gorski Kotar",
+    "url": "http://www.rgk.hr/",
+    "stream": "http://live.rgk.hr:9500/;",
+    "frekvencija": "",
+    "slika": "radio-gorski-kotar-uzivo.jpg",
+    "zupanija": "Primorsko-goranska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "38",
+    "naziv": "HRT Hrvatski Radio Rijeka",
+    "url": "http://radio.hrt.hr/",
+    "stream": "http://19373.live.streamtheworld.com/RIJEKA.mp3",
+    "frekvencija": "",
+    "slika": "hrt-radio-rijeka-uzivo.jpg",
+    "zupanija": "Primorsko-goranska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "11",
+    "naziv": "Radio bbr",
+    "url": "http://www.bbr.hr",
+    "stream": "http://62.210.10.4:8285/radiobbr64",
+    "frekvencija": "100.1",
+    "slika": "radio-bbr-bjelovar-uzivo.jpg",
+    "zupanija": "Bjelovarsko-bilogorska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "69",
+    "naziv": "Radio Daruvar",
+    "url": "http://www.radio-daruvar.hr/",
+    "stream": "http://85.17.172.242:8070/live.mp3",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Bjelovarsko-bilogorska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "28",
+    "naziv": "Radio Drava Koprivnica",
+    "url": "http://www.radio-drava.hr",
+    "stream": "http://194.56.74.21:9300/stream",
+    "frekvencija": "92.5",
+    "slika": "drava-drava.jpg",
+    "zupanija": "Koprivničko-križevačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "50",
+    "naziv": "Podravski Radio",
+    "url": "http://podravskiradio.net/",
+    "stream": "http://proglink4.ddns.net:58001/prstream.aac",
+    "frekvencija": "",
+    "slika": "podravski-radio-uzivo.jpg",
+    "zupanija": "Koprivničko-križevačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "54",
+    "naziv": "Radio Koprivnica",
+    "url": "http://www.radio-koprivnica.hr/",
+    "stream": "http://194.152.206.205:8000/;",
+    "frekvencija": "",
+    "slika": "radio-koprivnica-uzivo.jpg",
+    "zupanija": "Koprivničko-križevačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "71",
+    "naziv": "Radio Križevci",
+    "url": "http://www.radio-krizevci.hr/",
+    "stream": "http://144.76.172.23:7028/;",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Koprivničko-križevačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "2",
+    "naziv": "Radio Max",
+    "url": "http://www.radiomax.hr",
+    "stream": "http://winweb1.novi-net.net:8012/;",
+    "frekvencija": "99.3",
+    "slika": "339-radio-max-uzivo.jpg",
+    "zupanija": "Varaždinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "12",
+    "naziv": "Radio Ludbreg",
+    "url": "http://www.radio-ludbreg.hr",
+    "stream": "http://pa-hosting.de:23573/;",
+    "frekvencija": "93.4",
+    "slika": "367-radio-ludbreg-uzivo.jpg",
+    "zupanija": "Varaždinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "31",
+    "naziv": "Radio Zagorje",
+    "url": "http://www.radiozagorje.eu",
+    "stream": "http://88.198.175.30:5011/;",
+    "frekvencija": "",
+    "slika": "zagorje.jpg",
+    "zupanija": "Varaždinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "65",
+    "naziv": "Radio Sjeverni FM",
+    "url": "http://sjeverni.fm/",
+    "stream": "http://centova-cloud01.novi-net.net:8000/stream",
+    "frekvencija": "",
+    "slika": "radio-sjeverni-ivanec-uzivo.jpg",
+    "zupanija": "Varaždinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "73",
+    "naziv": "Kult Radio",
+    "url": "http://www.kultradio.hr/",
+    "stream": "http://50.7.71.30:9733/;",
+    "frekvencija": "",
+    "slika": "kult-radio-uzivo.jpg",
+    "zupanija": "Varaždinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "79",
+    "naziv": "Radio Sjeverozapad",
+    "url": "http://sjeverozapad.hr/",
+    "stream": "http://winweb1.novi-net.net:8030/rnwH",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Varaždinska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "16",
+    "naziv": "Radio Mrežnica",
+    "url": "http://www.radio-mreznica.hr",
+    "stream": "http://144.76.172.23:7010/;",
+    "frekvencija": "95.4",
+    "slika": "radio-mreznica-uzivo.jpg",
+    "zupanija": "Karlovačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "58",
+    "naziv": "Radio Ogulin",
+    "url": "http://www.radio-ogulin.hr/",
+    "stream": "http://144.76.172.23:8002/stream",
+    "frekvencija": "",
+    "slika": "radio-ogulin-uzivo.jpg",
+    "zupanija": "Karlovačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "74",
+    "naziv": "Radio Karlovac",
+    "url": "http://www.karlovački.hr/",
+    "stream": "http://s8.iqstreaming.com:8002//;",
+    "frekvencija": "",
+    "slika": "prvi-karlovacki-uzivo.jpg",
+    "zupanija": "Karlovačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "78",
+    "naziv": "Radio Slunj",
+    "url": "http://radio.slunj.net/",
+    "stream": "http://144.76.172.23:7057/;",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Karlovačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "1",
+    "naziv": "Radio Banovina",
+    "url": "http://www.radio-banovina.hr",
+    "stream": "http://stream1.radio-banovina.hr:9998/stream",
+    "frekvencija": "96.8",
+    "slika": "radio-banovina-glina.jpg",
+    "zupanija": "Sisačko-moslavačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "75",
+    "naziv": "Radio Novska",
+    "url": "http://www.radionovska.hr/",
+    "stream": "http://genf196.server4you.de:8686/;",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Sisačko-moslavačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "76",
+    "naziv": "Radio Sisak",
+    "url": "http://www.radiosisak.hr/",
+    "stream": "http://c5.hostingcentar.com:8096/stream",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Sisačko-moslavačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "5",
+    "naziv": "Radio Kaj",
+    "url": "http://www.radio-kaj.hr",
+    "stream": "http://144.76.172.23:7051/;",
+    "frekvencija": "99.7",
+    "slika": "radio-kaj-uzivo.jpg",
+    "zupanija": "Krapinsko-zagorska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "67",
+    "naziv": "Zagorski Radio",
+    "url": "http://www.zagorski-radio.hr/",
+    "stream": "http://access2.streamsink.com:8300/;",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Krapinsko-zagorska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "70",
+    "naziv": "Radio Zlatar",
+    "url": "http://www.radio-zlatar.hr/",
+    "stream": "http://144.76.172.23:7059/;",
+    "frekvencija": "",
+    "slika": "",
+    "zupanija": "Krapinsko-zagorska",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "14",
+    "naziv": "Radio Samobor",
+    "url": "http://www.radiosamobor.hr",
+    "stream": "http://185.150.235.162:80/;",
+    "frekvencija": "93.0",
+    "slika": "369-radio-samobor-uzivo.jpg",
+    "zupanija": "Zagrebačka",
+    "lokacija": "Hrvatska"
+  },
+  {
+    "id": "53",
+    "naziv": "Radio Jaska",
+    "url": "https://www.radio-jaska.hr/",
+    "stream": "http://uk1.streamingpulse.com:7041/stream",
+    "frekvencija": "",
+    "slika": "radio-jaska-uzivo.jpg",
+    "zupanija": "Zagrebačka",
+    "lokacija": "Hrvatska"
+  }
+]
